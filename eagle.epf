@@ -1,0 +1,36 @@
+[Eagle]
+Version="07 02 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/atmel.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/con-wago-500.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/diode.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/mi_mosfet.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/pinhead.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/rcl.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/ref-packages.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/supply1.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/transistor-fet.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/transistor-npn.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/transistor-pnp.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/transistor-power.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/v-reg.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/wirepad.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/SparkFun-Eagle-Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/Russian/RussianTransistors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="174 55 1527 996"
+State=2
+Number=0
+
+[Desktop]
+Screen="3840 1080"
+Window="Win_1"
